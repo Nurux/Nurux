@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/Nurux">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nurux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nurux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurux&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>

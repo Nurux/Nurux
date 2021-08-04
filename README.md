@@ -38,7 +38,7 @@
   <a href="https://discord.gg/CxwkKm6h" target="_blanck">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blanck">
   </a>  
-  <a href="johnf.git@gmail.com" target="_blanck">
+  <a href="mailto:johnf.git@gmail.com" target="_blanck">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck">
   </a>  
 </div>

@@ -1,15 +1,19 @@
 ## Oi, eu sou John.
 
+<img align="right" alt="Nuru-gif" height="150em" src="https://cdn.discordapp.com/attachments/714203785219539054/872546001565646908/gif-git.gif">
+
 - 👀 Atualmente estou interessado em Programação Web
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript, Html5 e Css3
 - 👨🏻‍🎓 Estudante de Sistemas de Informação - UniFTC 
+- 🙃 Pronomes: ele/dele
+- 🎧 Hobbys: músicas, filmes e games
 
 ##
 
 <div>
   <a href="https://github.com/Nurux">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nurux&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurux&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurux&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
@@ -19,7 +23,7 @@
   <img align="center" alt="Nuru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nuru-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Nuru-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Nuru-gif" height="150" src="https://cdn.discordapp.com/attachments/714203785219539054/872546001565646908/gif-git.gif">
+  
   <br>
 </div>
 

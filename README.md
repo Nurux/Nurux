@@ -46,6 +46,20 @@
 
 ##
 
+<section>
+  <h2 align="center">📃 Certificados</h2>
+  <div>
+   <a href="" target="_blank">
+   <img src="" height="60" alt="JavaScript" title="JavaScript - Curso em Video">
+   </a>   
+  </div>
+  <div>
+   <a href="" target="_blank">
+   <img src="" height="60" alt="Lógica" title="lógica de Programação - Curso em Video">
+   </a>   
+  </div>
+ </details>
+
 <h4> Create by: <a href="https://github.com/Nurux">Nurux</a><h4>
 <p>
   Changed in: 04/08/2021

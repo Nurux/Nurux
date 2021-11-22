@@ -49,14 +49,16 @@
 <section>
   <h2 align="center">📃 Certificados</h2>
   <div>
-   <a href="https://github.com/Nurux/Nurux/blob/main/Certificados/Javascript-40-Horas-Certificado-Curso-em-Video.pdf" target="_blank">
-   <img src="" height="60" alt="JavaScript" title="JavaScript - Curso em Video">
-   </a>   
+    <h3>JavaScript 40hrs</h3>
+    <a href="https://github.com/Nurux/Nurux/blob/main/Certificados/Javascript-40-Horas-Certificado-Curso-em-Video.pdf" target="_blank">
+    <img src="Certificados/Javascript.png" height="200" alt="JavaScript" title="JavaScript - Curso em Video">
+    </a>   
   </div>
   <div>
-   <a href="https://github.com/Nurux/Nurux/blob/main/Certificados/Algoritmo-40-Horas-Certificado-Curso-em-Video.pdf" target="_blank">
-   <img src="" height="60" alt="Lógica" title="lógica de Programação - Curso em Video">
-   </a>   
+    <h3>Algoritmo 40hrs</h3>
+    <a href="https://github.com/Nurux/Nurux/blob/main/Certificados/Algoritmo-40-Horas-Certificado-Curso-em-Video.pdf" target="_blank">
+    <img src="Certificados/Algoritmo.png" height="200" alt="Lógica" title="Lógica de Programação - Curso em Video">
+    </a>   
   </div>
  </details>
 

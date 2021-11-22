@@ -54,7 +54,7 @@
    </a>   
   </div>
   <div>
-   <a href="" target="_blank">
+   <a href="https://github.com/Nurux/Nurux/blob/main/Certificados/Algoritmo-40-Horas-Certificado-Curso-em-Video.pdf" target="_blank">
    <img src="" height="60" alt="Lógica" title="lógica de Programação - Curso em Video">
    </a>   
   </div>

@@ -47,8 +47,9 @@
 ##
 
 <section>
-  <h2 align="center">📃 Certificados</h2>
+  <h2>📃 Certificados</h2>
   <details>
+    <summary>Curso em Video</summary>
     <div>
       <h3>JavaScript 40hrs</h3>
       <a href="https://github.com/Nurux/Nurux/blob/main/Certificados/Javascript-40-Horas-Certificado-Curso-em-Video.pdf" target="_blank">

@@ -46,7 +46,6 @@
 
 ##
 
-<section>
   <h2>📃 Certificados</h2>
   <details>
     <summary>Curso em Video</summary>
@@ -60,6 +59,22 @@
       <h3>Algoritmo 40hrs</h3>
       <a href="https://github.com/Nurux/Nurux/blob/main/Certificados/Algoritmo-40-Horas-Certificado-Curso-em-Video.pdf" target="_blank">
       <img src="Certificados/Algoritmo.png" height="200" alt="Lógica" title="Lógica de Programação - Curso em Video">
+      </a>   
+    </div>
+ </details>
+ 
+ <details>
+    <summary>DIO</summary>
+    <div>
+      <h3>...</h3>
+      <a href="" target="_blank">
+      <img src="" height="200" alt="" title="">
+      </a>   
+    </div>
+    <div>
+      <h3>...</h3>
+      <a href="" target="">
+      <img src="" height="200" alt="" title="">
       </a>   
     </div>
  </details>

@@ -66,16 +66,21 @@
  <details>
     <summary>DIO</summary>
     <div>
-      <h3>...</h3>
-      <a href="" target="_blank">
-      <img src="" height="200" alt="" title="">
+      <h3>Introdução a Websites 6hrs</h3>
+      <a href="https://github.com/Nurux/Nurux/blob/main/Certificados/Introdução%20a%20criação%20de%20websites.pdf" target="_blank">
+      <img src="Certificados/Introdução_Website.png" height="200" alt="Website" title="Intro_Website - DIO">
       </a>   
     </div>
     <div>
-      <h3>...</h3>
-      <a href="" target="">
-      <img src="" height="200" alt="" title="">
+      <h3>Logica de Programação 4hrs</h3>
+      <a href="https://github.com/Nurux/Nurux/blob/main/Certificados/Lógica%20de%20Programação%20Essencial.pdf" target="_blank">
+      <img src="Certificados/Logica_Programação.png" height="200" alt="Logica" title="Logica de Programação - DIO">
       </a>   
+    </div>
+    <div>
+      <h3>Introdução a Vue 2hrs</h3>
+      <a href="https://github.com/Nurux/Nurux/blob/main/Certificados/Introdução%20ao%20Vue-js.pdf" target="_blank">
+      <img src="Certificados/Vue.png" height="200" alt="Vue" title="Introdução a Vue - DIO">
     </div>
  </details>
 

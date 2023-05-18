@@ -3,7 +3,7 @@
 <img align="right" alt="Nuru-gif" height="150em" src="https://cdn.discordapp.com/attachments/714203785219539054/872546001565646908/gif-git.gif">
 
 - 👀 Atualmente estou interessado em Programação Web
-- 🌱 Estudando JavaScript, Html5 e Css3
+- 🌱 Estudando Node, JavaScript, Html5 e Css3
 - 👨🏻‍🎓 Estudante de Sistemas de Informação - UniFTC 
 - 🙃 Pronomes: ele/dele
 - 🎧 Hobbys: músicas, filmes e games
